@@ -14,6 +14,3 @@ public class PositiveNumberDeterminer {
 
 }
 
-//Create a program that will determine and print
-// if consumed number is positive (in this case print true) or
-// no (print false) using if-else block.
